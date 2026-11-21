@@ -6,7 +6,7 @@ Internal repository documentation for the EyeSafe engineering and product team. 
 
 ## Website Overview
 
-- **Domain:** [eyesafe.ma](https://eyesafe.ma)
+- **Domain:** [eyesafe.ma](https://eyesafe.ma), or you can go to [mohammed-el-baraka.github.io/eyesafe-website](https://mohammed-el-baraka.github.io/eyesafe-website/)
 - **Purpose:** Official presentation website and pilot request portal for EyeSafe, a sovereign edge computer vision platform for industrial safety, logistics gate tracking, and academic integrity.
 - **Hosting / Root:** Statically hosted from the `/docs` directory (configured for GitHub Pages with custom domain `eyesafe.ma`).
 - **Tech Stack:** Vanilla HTML5, CSS3, and JavaScript (zero build steps, zero external package dependencies).
